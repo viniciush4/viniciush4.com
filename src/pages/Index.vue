@@ -15,7 +15,7 @@
             />
           </q-card-section>
           <q-card-section class="text-center">
-            <p class="text-h5 text-uppercase font-raleway" style="letter-spacing: 2px">Vinícius Berger</p>
+            <p class="text-h5 text-uppercase font-raleway" style="letter-spacing: 2px">Vinícius Berger 2</p>
             <p class="text-uppercase">Full stack developer</p>
             <p>
               <q-btn flat color="primary" label="Projetos" />
